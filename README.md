@@ -1,6 +1,6 @@
 # SImpleWEBSever
 # EX01 Developing a Simple Webserver
-## Date:26-09-2026
+## Date:
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -82,7 +82,6 @@ if __name__ == "__main__":
     run_server()
 
 ## OUTPUT:
-![alt text](<Screenshot 2026-09-26 212241.png>)
-![alt text](<Screenshot 2026-09-26 212414.png>)
+
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
